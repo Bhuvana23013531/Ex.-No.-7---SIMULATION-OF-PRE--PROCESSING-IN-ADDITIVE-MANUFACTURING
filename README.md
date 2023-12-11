@@ -45,6 +45,7 @@
 
 
 ## Output:
+![Screenshot 2023-12-11 154327](https://github.com/Bhuvana23013531/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147125678/237ef8c1-3190-4b52-a010-c27985f3d21f)
 
 ### Name:BHUVANESHWARI M
 ### Register Number:23013531
